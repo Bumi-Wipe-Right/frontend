@@ -8,7 +8,7 @@ Did you mean to checkout our backend repository?
 
 Check out our sibling here:
 
-https://github.com/dsd-cohort-team-corgi/backend
+https://github.com/Bumi-Wipe-Right/frontend
 
 ## 📚 Table of Contents
 
